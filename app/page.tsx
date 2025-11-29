@@ -104,10 +104,10 @@ export default function Home() {
 
   const menuItems = [
     { label: "Overview", href: "#projects" },
-    { label: "Walkthrough", href: "#walkthrough" },
+    // { label: "Walkthrough", href: "#walkthrough" },
     { label: "Floor Plans", href: "#floor-plans" },
-    { label: "Price List", href: "#price-list" },
-    { label: "Location", href: "#location" },
+    //{ label: "Price List", href: "#price-list" },
+    //{ label: "Location", href: "#location" },
   ]
 
   return (
